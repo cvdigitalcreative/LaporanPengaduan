@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pengaduan Fasilitas Umum</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">hello world</string>
+    <string-array name="spinnerItems">
+        <item>Pilih Kategori</item>
+        <item>Trotoar</item>
+        <item>Jalan</item>
+        <item>Saluran Air</item>
+    </string-array>
+
+    <string name="deskripsi">
+        Dinas Pekerjaan Umum dan penataan ruang merupakan unsur pelaksanaan tugas Pemerintah Daerah di bidang pekerjaan umum
+        yang meliputi bina marga, cipta karya, dan tata ruang yang dipimpin oleh Kepala Dinas berkedudukan di bawah dan
+        bertanggung jawab kepada walikota melalui Sekretaris Daerah. Dinas pekerjaaan umum dan penataan ruang kota palembang
+        dibentuk sejak tahun 2016 dikarenakan ada penggabungan antara dua jenis dinas yaitu dinas PU BM dan CK dengan
+        Dinas Tata Kota menjadi satu dinas, Berdasarkan Peraturan Pemerintah (PP) No 18 tahun 2016 tentang perangkat Daerah,
+        Pemerintah Kota Pelembnag melaksanakan perubahan nomenklatur perangkat Daerah yang merupakan instruksi Pemerintah Pusat.
+    </string>
+</resources>
